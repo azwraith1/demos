@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameDescPanelSkin" width="750" height="500" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="img_bg1_png" x="0" y="0"/>
+	<e:Label id="scoreLabel" text="记忆增强中，请记住这张图现在的样子，倒计时结束后，看谁拼得快" y="115" size="20" fontFamily="Microsoft YaHei" anchorOffsetX="0" rotation="359.47" textAlign="center" textColor="0x000000" horizontalCenter="0"/>
+	<e:Image source="img_selectdb1_png" y="149" horizontalCenter="6.5"/>
+	<e:Image id="typeImage" width="590" height="326" x="79" y="151" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image source="img_select2_png" y="138" anchorOffsetX="0" width="614" anchorOffsetY="0" height="352" horizontalCenter="0"/>
+	<e:Image source="img_djs_png" x="312" y="6"/>
+	<e:Label id="timeLabel" text="10" x="323.5" y="41.5" textColor="0x000000" fontFamily="Microsoft YaHei" bold="true" size="36" anchorOffsetX="0" width="83" textAlign="center"/>
+</e:Skin>

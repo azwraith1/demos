@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameChooseSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="game_kuang1_png" x="0" y="0"/>
+	<e:Image id="resultImage" source="game_type1_png" scaleX="0.6" scaleY="0.6" verticalCenter="0" horizontalCenter="0"/>
+	<e:Image id="maskImage" source="game_kuang0_png"/>
+</e:Skin>

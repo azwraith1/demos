@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HomeSceneSkin" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:game="game.*"
+        width="750">
+	<e:Image source="img_db2_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Group id="mineGroup" width="746" height="196" x="4" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image source="h_img2_png" x="309" y="74" scaleX="1" scaleY="1"/>
+		<e:Image source="h_img3_png" x="4" y="12.5" scaleX="1" scaleY="1"/>
+		<e:Image id="myMaskImage" source="h_img4_png" x="17" y="27"/>
+		<e:Image id="myHeader" width="141" height="142" x="17" y="27"/>
+		<e:Image id="myStatusImage" source="h_img5_png" y="105.5" horizontalCenter="153"/>
+		<e:Label id="myNameLabel" text="我的名字" x="188" y="20" size="45" fontFamily="Microsoft YaHei" strokeColor="0xf32e5e" stroke="5"/>
+	</e:Group>
+	<e:Group id="otherGroup" width="746" height="196" anchorOffsetX="0" anchorOffsetY="0" y="1138" x="0">
+		<e:Label id="otherNameLabel" text="我的名字" x="188" y="20" size="45" fontFamily="Microsoft YaHei" strokeColor="0xF32E5E" stroke="5"/>
+		<e:Image source="h_img2_png" x="309" y="74" scaleX="1" scaleY="1"/>
+		<e:Image source="h_img3_png" x="4" y="12.5" scaleX="1" scaleY="1"/>
+		<e:Image id="otherMaskImage" source="h_img4_png" x="17" y="27"/>
+		<e:Image id="otherHeader" width="141" height="142" x="17" y="27"/>
+		<e:Image id="otherStatusImage" source="h_img5_png" y="105.5" horizontalCenter="153"/>
+	</e:Group>
+	<e:Image source="img_example_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Group id="lockGroup" width="750" height="1334" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="img_db1_png" horizontalCenter="0" verticalCenter="0" x="0" y="223" scaleX="1" scaleY="1"/>
+		<e:Image source="h_img1_png" y="359.5" horizontalCenter="0"/>
+		<e:BitmapLabel id="timeLabel" font="daoji_font_fnt" text="3" horizontalCenter="0" verticalCenter="0"/>
+	</e:Group>
+</e:Skin>

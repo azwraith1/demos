@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BackgroundSkin" width="750" height="500" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bg_jpg" horizontalCenter="0" verticalCenter="0" />
+	<e:Group id="topGroup" width="750" horizontalCenter="0" y="0">
+		<e:Image id="otherHeaderBg" source="img_headerbg_png" x="3" y="5" scaleX="1" scaleY="1" />
+		<e:Image id="otherHeaderBg0" source="img_headerbg_png" x="2" y="5" scaleX="1" scaleY="1"/>
+		<e:Image id="otherHeader" height="117" x="2" y="5" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"  width="117" source=""/>
+		<e:Image y="3" source="img_headerbg1_png" x="1"/>
+		<e:Image id="myHeaderBg" source="img_headerbg_png" x="631" y="5" scaleX="1" scaleY="1"/>
+		<e:Image id="myHeaderBg0" source="img_headerbg_png" x="631" y="5" scaleX="1" scaleY="1"/>
+		<e:Image id="myHeader" height="117" x="631" y="5" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" width="117" source=""/>
+		<e:Image y="3" source="img_headerbg1_png" x="630"/>
+		<e:Image source="img_jfl_png" top="0" y="0" scaleX="1" scaleY="1" horizontalCenter="0" />
+		<e:Image source="text_top_png" y="27" horizontalCenter="-46" />
+		<e:BitmapLabel id="scoreLabel" x="342" y="40" font="font_score2_fnt" text="" scaleX="0.6" scaleY="0.6" anchorOffsetX="80" letterSpacing="-5" height="38" textAlign="center" width="160" anchorOffsetY="19"/>
+		<e:BitmapLabel id="rankLabel" x="520" y="41" font="font_score2_fnt" text="" scaleX="0.6" scaleY="0.6"
+		               anchorOffsetX="0" letterSpacing="-5" height="37" textAlign="center" width="155"  anchorOffsetY="19"/>
+	</e:Group>
+	<e:Group id="mainGroup" width="750" height="500" x="0" y="0">
+		<e:Group id="rightGroup" y="127" x="632">
+			<e:Image id="m_result1" source="img_result0_png" x="10" y="-2" scaleX="1" scaleY="1"/>
+			<e:Image id="m_result2" source="img_result0_png" x="10" y="72" scaleX="1" scaleY="1"/>
+			<e:Image id="m_result3" source="img_result0_png" x="10" y="145" scaleX="1" scaleY="1"/>
+			<e:Image id="m_result4" source="img_result0_png" x="10" y="219" scaleX="1" scaleY="1"/>
+			<e:Image id="m_result5" source="img_result0_png" x="10" y="293" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Group id="leftGroup" y="127">
+			<e:Image id="o_result1" source="img_result0_png" x="10" y="-2" scaleX="1" scaleY="1"/>
+			<e:Image id="o_result2" source="img_result0_png" x="10" y="72" scaleX="1" scaleY="1"/>
+			<e:Image id="o_result3" source="img_result0_png" x="10" y="145" scaleX="1" scaleY="1"/>
+			<e:Image id="o_result4" source="img_result0_png" x="10" y="219" scaleX="1" scaleY="1"/>
+			<e:Image id="o_result5" source="img_result0_png" x="10" y="293" scaleX="1" scaleY="1"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

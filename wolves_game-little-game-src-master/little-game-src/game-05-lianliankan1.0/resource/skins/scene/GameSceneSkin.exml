@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSceneSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:game="game.*">
+	<e:Image source="img_db2_png" horizontalCenter="0" verticalCenter="0" />
+	<e:Group id="mineGroup" width="746" height="196" x="4" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image x="4" y="12.5" scaleX="1" scaleY="1"  source="img_bar2_png"/>
+		<e:Image id="myBar" source="img_bar_png" x="146.03" y="114.96" fillMode="clip" scaleX="0"/>
+		<e:Image id="myMaskImage" source="h_img4_png" x="17" y="27" />
+		<e:Image id="myHeader" width="141" height="142" x="17" y="27" />
+		<e:Label id="myNameLabel" text="我的名字" x="181.34" y="13.83" size="45" fontFamily="Microsoft YaHei" strokeColor="0xf32e5e"
+		         stroke="5" />
+		<e:BitmapLabel id="myPercent" x="595.79" y="84.16" font="game_font_fnt" text="0%" scaleX="0.4" scaleY="0.8" anchorOffsetX="0" width="357" textAlign="center"/>
+		<e:Image id="myPoint" source="img_jindu_png" x="132" y="77.96"/>
+	</e:Group>
+	<e:Group id="otherGroup" width="746" height="196" anchorOffsetX="0" anchorOffsetY="0" y="1138" x="0">
+		<e:Image x="4" y="12.5" scaleX="1" scaleY="1" source="img_bar2_png"/>
+		<e:Image id="otherBar" source="img_bar_png" x="146.03" y="114.96" scaleX="0"/>
+		<e:Image id="otherMaskImage" source="h_img4_png" x="17" y="27"/>
+		<e:Image id="otherHeader" width="141" height="142" x="17" y="27"/>
+		<e:Label id="otherNameLabel" text="我的名字" x="181.34" y="13.83" size="45" fontFamily="Microsoft YaHei" strokeColor="0xF32E5E" stroke="5"/>
+		<e:BitmapLabel id="otherPercent" x="595.79" y="84.16" font="game_font_fnt" text="0%" scaleX="0.4" scaleY="0.8" anchorOffsetX="0" width="357" textAlign="center"/>
+		<e:Image id="otherPoint" source="img_jindu_png" x="132" y="77.96"/>
+	</e:Group>
+	<e:Group id="cardGroup" width="735" height="824" verticalCenter="0" horizontalCenter="0"/>
+	<e:Group id="effectGroup" width="735" height="824" verticalCenter="0" horizontalCenter="0" touchEnabled="false">
+	</e:Group>
+</e:Skin>

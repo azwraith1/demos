@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WidgetQiang2Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="qiangImage" y="0" anchorOffsetY="0" height="25" anchorOffsetX="0" width="25" source="img_migong3_png" x="0"
+	         scale9Grid="1,1,9,9" />
+	<e:Image id="qiangImage0" anchorOffsetY="0" height="25" anchorOffsetX="0" width="25" source="img_migong2_png" scale9Grid="4,4,3,3" x="0" y="0" visible="false"/>
+	<e:Label text="" size="8" anchorOffsetY="0" verticalCenter="0" horizontalCenter="0" id="zuobiaoLabel" textAlign="center"/>
+</e:Skin>
