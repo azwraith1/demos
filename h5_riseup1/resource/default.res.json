@@ -1,0 +1,805 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,gameEui_json,balloon_png,circle_png,blockBox_xml,qiqiu_ske_json,qiqiu_tex_json,qiqiu_tex_png,template1_json,LevelA01_json,LevelA02_json,LevelA03_json,LevelA04_json,LevelA05_json,LevelA06_json,LevelA07_json,LevelA08_json,LevelA09_json,LevelA10_json,title (1)_png,title (2)_png,title (3)_png,title (4)_png,title (5)_png,title (6)_png,title (7)_png,title (8)_png,title (9)_png,title (10)_png,title (1)_jpg,003_png,001_png,002_png,BlockBox_json,bg_png,blockRhombus1_png,blockCircle1_png,blockSquare1_png,blockSquare2_png,blockCross1_png,blockTriangle1_png,blockStar1_png,LevelA00_json,bg1_1_png,bg1_2_png,bg1_3_png,cloud1_4_png,bg2_1_png,bg2_2_png,bg2_3_png,bg2_4_png,bg3_1_png,bg3_2_png,bg3_3_png,bg3_4_png,bg4_1_png,bg4_2_png,bg4_3_png,bg4_4_png,bg5_1_png,bg5_2_png,bg5_3_png,bg5_4_png,blockSquare3_png,wallTriangle1_png,wallTriangle2_png,LevelB01_json,LevelB02_json,bg0_png,bg01_png,bar1_png,bar2_png,bar3_png,levelOff_png,levelOn_png,balloon (6)_png,balloon_8_png,balloon_skin1_png,balloon_skin2_png,balloon_skin3_png,balloon_skin4_png,balloon_skin5_png,wallTriangle3_png,wallTriangle4_png,blockSquare4_png,wallSquare1_png,wallOtherA1_png,wallOtherA2_png,LevelC01_json,LevelB03_json,LevelC02_json,LevelB04_json,LevelB05_json,LevelB06_json,LevelG01_json,crown_png,restart_png,share_png,skin_png,LevelG02_json,blockRhombus2_png,LevelG03_json,blockHexagon1_png,wallSquare2_png,blockOctagon1_png,blockPolygon1_png,LevelG04_json,LevelG05_json,wallSquare3_png,qiqiu00_ske_json,qiqiu00_tex_json,qiqiu00_tex_png,qiqiu01_ske_json,qiqiu01_tex_json,qiqiu01_tex_png,qiqiu02_ske_json,qiqiu02_tex_json,qiqiu02_tex_png,qiqiu03_ske_json,qiqiu03_tex_json,qiqiu03_tex_png,qiqiu04_ske_json,qiqiu04_tex_json,qiqiu04_tex_png,qiqiu05_ske_json,qiqiu05_tex_json,qiqiu05_tex_png,LevelG06_json,LevelG07_json,LevelG08_json,wallTriangle5_png,wallTriangle6_png,LevelG09_json,LevelG10_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "gameEui.json",
+			"type": "json",
+			"name": "gameEui_json"
+		},
+		{
+			"url": "assets/blockBox.xml",
+			"type": "bin",
+			"name": "blockBox_xml"
+		},
+		{
+			"url": "assets/balloon.png",
+			"type": "image",
+			"name": "balloon_png"
+		},
+		{
+			"url": "assets/circle.png",
+			"type": "image",
+			"name": "circle_png"
+		},
+		{
+			"name": "qiqiu_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu_ske.json"
+		},
+		{
+			"name": "qiqiu_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu_tex.json"
+		},
+		{
+			"name": "qiqiu_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu_tex.png"
+		},
+		{
+			"name": "template1_json",
+			"type": "json",
+			"url": "data/template1.json"
+		},
+		{
+			"name": "LevelA01_json",
+			"type": "json",
+			"url": "data/LevelA01.json"
+		},
+		{
+			"name": "LevelA02_json",
+			"type": "json",
+			"url": "data/LevelA02.json"
+		},
+		{
+			"name": "LevelA03_json",
+			"type": "json",
+			"url": "data/LevelA03.json"
+		},
+		{
+			"name": "LevelA04_json",
+			"type": "json",
+			"url": "data/LevelA04.json"
+		},
+		{
+			"name": "LevelA05_json",
+			"type": "json",
+			"url": "data/LevelA05.json"
+		},
+		{
+			"name": "LevelA06_json",
+			"type": "json",
+			"url": "data/LevelA06.json"
+		},
+		{
+			"name": "LevelA07_json",
+			"type": "json",
+			"url": "data/LevelA07.json"
+		},
+		{
+			"name": "LevelA08_json",
+			"type": "json",
+			"url": "data/LevelA08.json"
+		},
+		{
+			"name": "LevelA09_json",
+			"type": "json",
+			"url": "data/LevelA09.json"
+		},
+		{
+			"name": "LevelA10_json",
+			"type": "json",
+			"url": "data/LevelA10.json"
+		},
+		{
+			"name": "title (1)_png",
+			"type": "image",
+			"url": "assets/title (1).png"
+		},
+		{
+			"name": "title (2)_png",
+			"type": "image",
+			"url": "assets/title (2).png"
+		},
+		{
+			"name": "title (3)_png",
+			"type": "image",
+			"url": "assets/title (3).png"
+		},
+		{
+			"name": "title (4)_png",
+			"type": "image",
+			"url": "assets/title (4).png"
+		},
+		{
+			"name": "title (5)_png",
+			"type": "image",
+			"url": "assets/title (5).png"
+		},
+		{
+			"name": "title (6)_png",
+			"type": "image",
+			"url": "assets/title (6).png"
+		},
+		{
+			"name": "title (7)_png",
+			"type": "image",
+			"url": "assets/title (7).png"
+		},
+		{
+			"name": "title (8)_png",
+			"type": "image",
+			"url": "assets/title (8).png"
+		},
+		{
+			"name": "title (9)_png",
+			"type": "image",
+			"url": "assets/title (9).png"
+		},
+		{
+			"name": "title (10)_png",
+			"type": "image",
+			"url": "assets/title (10).png"
+		},
+		{
+			"name": "title (1)_jpg",
+			"type": "image",
+			"url": "assets/title (1).jpg"
+		},
+		{
+			"name": "003_png",
+			"type": "image",
+			"url": "assets/003.png"
+		},
+		{
+			"name": "001_png",
+			"type": "image",
+			"url": "assets/001.png"
+		},
+		{
+			"name": "002_png",
+			"type": "image",
+			"url": "assets/002.png"
+		},
+		{
+			"name": "BlockBox_json",
+			"type": "json",
+			"url": "data/BlockBox.json"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/bg.png"
+		},
+		{
+			"name": "blockRhombus1_png",
+			"type": "image",
+			"url": "assets/blockRhombus1.png"
+		},
+		{
+			"name": "blockCircle1_png",
+			"type": "image",
+			"url": "assets/blockCircle1.png"
+		},
+		{
+			"name": "blockSquare1_png",
+			"type": "image",
+			"url": "assets/blockSquare1.png"
+		},
+		{
+			"name": "blockSquare2_png",
+			"type": "image",
+			"url": "assets/blockSquare2.png"
+		},
+		{
+			"name": "blockCross1_png",
+			"type": "image",
+			"url": "assets/blockCross1.png"
+		},
+		{
+			"name": "blockTriangle1_png",
+			"type": "image",
+			"url": "assets/blockTriangle1.png"
+		},
+		{
+			"name": "blockStar1_png",
+			"type": "image",
+			"url": "assets/blockStar1.png"
+		},
+		{
+			"name": "LevelA00_json",
+			"type": "json",
+			"url": "data/LevelA00.json"
+		},
+		{
+			"name": "bg1_1_png",
+			"type": "image",
+			"url": "assets/bg1_1.png"
+		},
+		{
+			"name": "bg1_2_png",
+			"type": "image",
+			"url": "assets/bg1_2.png"
+		},
+		{
+			"name": "bg1_3_png",
+			"type": "image",
+			"url": "assets/bg1_3.png"
+		},
+		{
+			"name": "cloud1_4_png",
+			"type": "image",
+			"url": "assets/cloud1_4.png"
+		},
+		{
+			"name": "bg2_1_png",
+			"type": "image",
+			"url": "assets/bg2_1.png"
+		},
+		{
+			"name": "bg2_2_png",
+			"type": "image",
+			"url": "assets/bg2_2.png"
+		},
+		{
+			"name": "bg2_3_png",
+			"type": "image",
+			"url": "assets/bg2_3.png"
+		},
+		{
+			"name": "bg2_4_png",
+			"type": "image",
+			"url": "assets/bg2_4.png"
+		},
+		{
+			"name": "bg3_1_png",
+			"type": "image",
+			"url": "assets/bg3_1.png"
+		},
+		{
+			"name": "bg3_2_png",
+			"type": "image",
+			"url": "assets/bg3_2.png"
+		},
+		{
+			"name": "bg3_3_png",
+			"type": "image",
+			"url": "assets/bg3_3.png"
+		},
+		{
+			"name": "bg3_4_png",
+			"type": "image",
+			"url": "assets/bg3_4.png"
+		},
+		{
+			"name": "bg4_1_png",
+			"type": "image",
+			"url": "assets/bg4_1.png"
+		},
+		{
+			"name": "bg4_2_png",
+			"type": "image",
+			"url": "assets/bg4_2.png"
+		},
+		{
+			"name": "bg4_3_png",
+			"type": "image",
+			"url": "assets/bg4_3.png"
+		},
+		{
+			"name": "bg4_4_png",
+			"type": "image",
+			"url": "assets/bg4_4.png"
+		},
+		{
+			"name": "bg5_1_png",
+			"type": "image",
+			"url": "assets/bg5_1.png"
+		},
+		{
+			"name": "bg5_2_png",
+			"type": "image",
+			"url": "assets/bg5_2.png"
+		},
+		{
+			"name": "bg5_3_png",
+			"type": "image",
+			"url": "assets/bg5_3.png"
+		},
+		{
+			"name": "bg5_4_png",
+			"type": "image",
+			"url": "assets/bg5_4.png"
+		},
+		{
+			"name": "blockSquare3_png",
+			"type": "image",
+			"url": "assets/blockSquare3.png"
+		},
+		{
+			"name": "wallTriangle1_png",
+			"type": "image",
+			"url": "assets/wallTriangle1.png"
+		},
+		{
+			"name": "wallTriangle2_png",
+			"type": "image",
+			"url": "assets/wallTriangle2.png"
+		},
+		{
+			"name": "LevelB01_json",
+			"type": "json",
+			"url": "data/LevelB01.json"
+		},
+		{
+			"name": "LevelB02_json",
+			"type": "json",
+			"url": "data/LevelB02.json"
+		},
+		{
+			"name": "bg0_png",
+			"type": "image",
+			"url": "assets/bg0.png"
+		},
+		{
+			"name": "bg01_png",
+			"type": "image",
+			"url": "assets/bg01.png"
+		},
+		{
+			"name": "bar1_png",
+			"type": "image",
+			"url": "assets/bar1.png"
+		},
+		{
+			"name": "bar2_png",
+			"type": "image",
+			"url": "assets/bar2.png"
+		},
+		{
+			"name": "bar3_png",
+			"type": "image",
+			"url": "assets/bar3.png"
+		},
+		{
+			"name": "levelOff_png",
+			"type": "image",
+			"url": "assets/levelOff.png"
+		},
+		{
+			"name": "levelOn_png",
+			"type": "image",
+			"url": "assets/levelOn.png"
+		},
+		{
+			"name": "balloon (6)_png",
+			"type": "image",
+			"url": "assets/balloon (6).png"
+		},
+		{
+			"name": "balloon_8_png",
+			"type": "image",
+			"url": "assets/balloon_8.png"
+		},
+		{
+			"name": "balloon_skin1_png",
+			"type": "image",
+			"url": "assets/balloon_skin1.png"
+		},
+		{
+			"name": "balloon_skin2_png",
+			"type": "image",
+			"url": "assets/balloon_skin2.png"
+		},
+		{
+			"name": "balloon_skin3_png",
+			"type": "image",
+			"url": "assets/balloon_skin3.png"
+		},
+		{
+			"name": "balloon_skin4_png",
+			"type": "image",
+			"url": "assets/balloon_skin4.png"
+		},
+		{
+			"name": "balloon_skin5_png",
+			"type": "image",
+			"url": "assets/balloon_skin5.png"
+		},
+		{
+			"name": "wallTriangle3_png",
+			"type": "image",
+			"url": "assets/wallTriangle3.png"
+		},
+		{
+			"name": "wallTriangle4_png",
+			"type": "image",
+			"url": "assets/wallTriangle4.png"
+		},
+		{
+			"name": "blockSquare4_png",
+			"type": "image",
+			"url": "assets/blockSquare4.png"
+		},
+		{
+			"name": "wallSquare1_png",
+			"type": "image",
+			"url": "assets/wallSquare1.png"
+		},
+		{
+			"name": "wallOtherA1_png",
+			"type": "image",
+			"url": "assets/wallOtherA1.png"
+		},
+		{
+			"name": "wallOtherA2_png",
+			"type": "image",
+			"url": "assets/wallOtherA2.png"
+		},
+		{
+			"name": "LevelC01_json",
+			"type": "json",
+			"url": "data/LevelC01.json"
+		},
+		{
+			"name": "LevelB03_json",
+			"type": "json",
+			"url": "data/LevelB03.json"
+		},
+		{
+			"name": "LevelC02_json",
+			"type": "json",
+			"url": "data/LevelC02.json"
+		},
+		{
+			"name": "LevelB04_json",
+			"type": "json",
+			"url": "data/LevelB04.json"
+		},
+		{
+			"name": "LevelB05_json",
+			"type": "json",
+			"url": "data/LevelB05.json"
+		},
+		{
+			"name": "LevelB06_json",
+			"type": "json",
+			"url": "data/LevelB06.json"
+		},
+		{
+			"name": "LevelG01_json",
+			"type": "json",
+			"url": "data/LevelG01.json"
+		},
+		{
+			"name": "crown_png",
+			"type": "image",
+			"url": "assets/crown.png"
+		},
+		{
+			"name": "restart_png",
+			"type": "image",
+			"url": "assets/restart.png"
+		},
+		{
+			"name": "share_png",
+			"type": "image",
+			"url": "assets/share.png"
+		},
+		{
+			"name": "skin_png",
+			"type": "image",
+			"url": "assets/skin.png"
+		},
+		{
+			"name": "LevelG02_json",
+			"type": "json",
+			"url": "data/LevelG02.json"
+		},
+		{
+			"name": "blockRhombus2_png",
+			"type": "image",
+			"url": "assets/blockRhombus2.png"
+		},
+		{
+			"name": "LevelG03_json",
+			"type": "json",
+			"url": "data/LevelG03.json"
+		},
+		{
+			"name": "blockHexagon1_png",
+			"type": "image",
+			"url": "assets/blockHexagon1.png"
+		},
+		{
+			"name": "wallSquare2_png",
+			"type": "image",
+			"url": "assets/wallSquare2.png"
+		},
+		{
+			"name": "blockOctagon1_png",
+			"type": "image",
+			"url": "assets/blockOctagon1.png"
+		},
+		{
+			"name": "blockPolygon1_png",
+			"type": "image",
+			"url": "assets/blockPolygon1.png"
+		},
+		{
+			"name": "LevelG04_json",
+			"type": "json",
+			"url": "data/LevelG04.json"
+		},
+		{
+			"name": "LevelG05_json",
+			"type": "json",
+			"url": "data/LevelG05.json"
+		},
+		{
+			"name": "wallSquare3_png",
+			"type": "image",
+			"url": "assets/wallSquare3.png"
+		},
+		{
+			"name": "qiqiu00_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu00_ske.json"
+		},
+		{
+			"name": "qiqiu00_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu00_tex.json"
+		},
+		{
+			"name": "qiqiu00_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu00_tex.png"
+		},
+		{
+			"name": "qiqiu01_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu01_ske.json"
+		},
+		{
+			"name": "qiqiu01_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu01_tex.json"
+		},
+		{
+			"name": "qiqiu01_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu01_tex.png"
+		},
+		{
+			"name": "qiqiu02_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu02_ske.json"
+		},
+		{
+			"name": "qiqiu02_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu02_tex.json"
+		},
+		{
+			"name": "qiqiu02_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu02_tex.png"
+		},
+		{
+			"name": "qiqiu03_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu03_ske.json"
+		},
+		{
+			"name": "qiqiu03_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu03_tex.json"
+		},
+		{
+			"name": "qiqiu03_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu03_tex.png"
+		},
+		{
+			"name": "qiqiu04_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu04_ske.json"
+		},
+		{
+			"name": "qiqiu04_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu04_tex.json"
+		},
+		{
+			"name": "qiqiu04_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu04_tex.png"
+		},
+		{
+			"name": "qiqiu05_ske_json",
+			"type": "json",
+			"url": "assets/qiqiu05_ske.json"
+		},
+		{
+			"name": "qiqiu05_tex_json",
+			"type": "json",
+			"url": "assets/qiqiu05_tex.json"
+		},
+		{
+			"name": "qiqiu05_tex_png",
+			"type": "image",
+			"url": "assets/qiqiu05_tex.png"
+		},
+		{
+			"name": "LevelG06_json",
+			"type": "json",
+			"url": "data/LevelG06.json"
+		},
+		{
+			"name": "LevelG07_json",
+			"type": "json",
+			"url": "data/LevelG07.json"
+		},
+		{
+			"name": "LevelG08_json",
+			"type": "json",
+			"url": "data/LevelG08.json"
+		},
+		{
+			"name": "wallTriangle5_png",
+			"type": "image",
+			"url": "assets/wallTriangle5.png"
+		},
+		{
+			"name": "wallTriangle6_png",
+			"type": "image",
+			"url": "assets/wallTriangle6.png"
+		},
+		{
+			"name": "LevelG09_json",
+			"type": "json",
+			"url": "data/LevelG09.json"
+		},
+		{
+			"name": "LevelG10_json",
+			"type": "json",
+			"url": "data/LevelG10.json"
+		}
+	]
+}

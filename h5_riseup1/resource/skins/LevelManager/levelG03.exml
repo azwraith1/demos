@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelG03" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="283" y="1563" source="blockRhombus2_png" scaleX="1.2" scaleY="1.2"/>
+	<e:Image x="160" y="1373" source="blockRhombus2_png" scaleX="0.8" scaleY="0.8"/>
+	<e:Image x="35" y="1150" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="179" y="1150" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="468" y="1373" source="blockRhombus2_png" scaleX="0.8" scaleY="0.8"/>
+	<e:Image x="337" y="1405" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="268" y="1313" source="blockRhombus2_png" scaleX="0.2" scaleY="0.2"/>
+	<e:Image x="453" y="1313" source="blockRhombus2_png" scaleX="0.2" scaleY="0.2"/>
+	<e:Image x="268" y="1029" source="blockRhombus2_png" scaleX="0.2" scaleY="0.2"/>
+	<e:Image x="453" y="1029" source="blockRhombus2_png" scaleX="0.2" scaleY="0.2"/>
+	<e:Image x="322" y="1150" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="465" y="1150" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="608" y="1150" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="160" y="840" source="blockRhombus2_png" scaleX="0.8" scaleY="0.8"/>
+	<e:Image x="468" y="840" source="blockRhombus2_png" scaleX="0.8" scaleY="0.8"/>
+	<e:Image x="337" y="872" source="blockRhombus2_png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="283" y="550" source="blockRhombus2_png" scaleX="1.2" scaleY="1.2"/>
+</e:Skin>

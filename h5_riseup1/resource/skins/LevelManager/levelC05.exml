@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="240" y="383.5" scaleX="1" scaleY="1" rotation="45" anchorOffsetX="0" anchorOffsetY="45.5" source="fi001_pngle:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png"/>
+	<e:Image x="850" y="1400" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="-150" y="1300" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="850" y="1200" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="-150" y="1100" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="850" y="1000" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="-150" y="900" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="850" y="800" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="-150" y="700" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="850" y="600" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="-150" y="500" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="850" y="400" scaleX="0.5" scaleY="0.5" rotation="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+</e:Skin>

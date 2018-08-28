@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="150" y="1500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="1500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="1500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="150" y="1300" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="1300" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="1300" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="150" y="1100" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="1100" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="1100" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="150" y="900" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="900" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="900" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="150" y="700" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="700" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="700" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="150" y="500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="150" y="300" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="330" y="300" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+	<e:Image x="510" y="300" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockStar1.png" scaleX="0.5" scaleY="0.5"/>
+</e:Skin>

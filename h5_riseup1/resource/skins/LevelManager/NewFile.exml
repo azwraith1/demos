@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="720" height="1280" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="bar1_png" y="70" horizontalCenter="0"/>
+	<e:Image source="bar3_png" x="177" y="100.5" anchorOffsetX="0" width="384.66"/>
+	<e:Image source="bar2_png" x="168.8" y="100.5" anchorOffsetX="0" width="242.67"/>
+	<e:Image source="levelOff_png" x="555" y="84"/>
+	<e:Image source="levelOn_png" x="112.8" y="84"/>
+	<e:Label text="1" x="121" y="95.67" anchorOffsetX="0" width="35.33" anchorOffsetY="0" height="34"/>
+	<e:Label text="Label" x="563.34" y="94.34" anchorOffsetX="0" width="39.33" anchorOffsetY="0" height="36.67" textColor="0x050404"/>
+</e:Skin>

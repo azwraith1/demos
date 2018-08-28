@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelG09" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="256" y="300" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="465" y="300" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="465" y="600" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="265.5" y="1616.5" source="blockSquare4_png" scaleY="0.5" scaleX="0.5"/>
+	<e:Image x="259.5" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.5" y="1590" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="259.59" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393.09" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.59" y="1568" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="256" y="600" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="256" y="900" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="256" y="1200" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="256" y="1400" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="465" y="900" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="465" y="1200" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="465" y="1400" source="wallSquare2_png" rotation="90"/>
+	<e:Image x="259.59" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393.09" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.59" y="1546" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="259.5" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.5" y="1502" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="259.5" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.5" y="1524" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="259.59" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393.09" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.59" y="1480" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="259.5" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.5" y="1458" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="259.5" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="276" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="293" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="310" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="326" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="343" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="360" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="376" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="393" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+	<e:Image x="409.5" y="1436" source="blockCircle1_png" scaleX="0.1" scaleY="0.1"/>
+</e:Skin>

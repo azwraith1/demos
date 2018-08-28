@@ -1,0 +1,133 @@
+{
+	"1008": {
+		"数组键名1": null,
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1008,
+		"positionX": 200,
+		"width": null,
+		"mass": 100,
+		"height": null,
+		"positionY": 500
+	},
+	"1001": {
+		"数组键名1": [
+			"1",
+			"2",
+			"3",
+			"3",
+			"5",
+			"6"
+		],
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1001,
+		"positionX": 600,
+		"width": null,
+		"mass": 100,
+		"height": null,
+		"positionY": 1000
+	},
+	"1002": {
+		"数组键名1": [
+			"1",
+			"2",
+			"3",
+			"3",
+			"5",
+			"6"
+		],
+		"name": "square",
+		"radius": null,
+		"gravity": 1,
+		"主键名": 1002,
+		"positionX": 350,
+		"width": 100,
+		"mass": 40,
+		"height": 100,
+		"positionY": 1100
+	},
+	"1003": {
+		"数组键名1": [
+			"1",
+			"2",
+			"3",
+			"3",
+			"5",
+			"6"
+		],
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1003,
+		"positionX": 550,
+		"width": null,
+		"mass": 50,
+		"height": null,
+		"positionY": 1150
+	},
+	"1004": {
+		"数组键名1": [
+			"1",
+			"2",
+			"3",
+			"3",
+			"5",
+			"6"
+		],
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1004,
+		"positionX": 440,
+		"width": null,
+		"mass": 100,
+		"height": null,
+		"positionY": 1100
+	},
+	"1005": {
+		"数组键名1": [
+			"1",
+			"2",
+			"3",
+			"3",
+			"5",
+			"6"
+		],
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1005,
+		"positionX": 350,
+		"width": null,
+		"mass": 20,
+		"height": null,
+		"positionY": 800
+	},
+	"1006": {
+		"数组键名1": null,
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1006,
+		"positionX": 600,
+		"width": null,
+		"mass": 400,
+		"height": null,
+		"positionY": 800
+	},
+	"1007": {
+		"数组键名1": null,
+		"name": "cycle",
+		"radius": 50,
+		"gravity": 1,
+		"主键名": 1007,
+		"positionX": 300,
+		"width": null,
+		"mass": 200,
+		"height": null,
+		"positionY": 500
+	}
+}

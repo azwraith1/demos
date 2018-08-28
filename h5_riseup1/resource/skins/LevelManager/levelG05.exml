@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelG05" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="60" y="180" rotation="90" source="wallSquare2_png" scaleX="1.5" scaleY="1.5"/>
+	<e:Image x="60" y="748" rotation="90" source="wallSquare2_png" scaleX="1.5" scaleY="1.5"/>
+	<e:Image x="720" y="748" rotation="90" source="wallSquare2_png" scaleX="1.5" scaleY="1.5"/>
+	<e:Image x="60" y="1316" rotation="90" source="wallSquare2_png" scaleX="1.5" scaleY="1.5"/>
+	<e:Image x="720" y="1316" rotation="90" source="wallSquare2_png" scaleX="1.5" scaleY="1.5"/>
+	<e:Image x="720" y="180" source="wallSquare2_png" rotation="90" scaleX="1.5" scaleY="1.5"/>
+	<e:Image x="-120" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-320" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-520" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-720" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-920" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-1120" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-1320" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-1520" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-1720" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="-1920" y="1223" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="768" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="968" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="1168" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="1368" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="1568" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="1768" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="1968" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="2168" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="2368" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+	<e:Image x="2568" y="652" scaleX="0.6" scaleY="0.6" source="blockOctagon1_png"/>
+</e:Skin>

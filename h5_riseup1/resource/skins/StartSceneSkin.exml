@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartSceneSkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="720" height="1280" x="1.33" y="0"/>
+	<e:Group id="StartGroup" width="720" height="1280" y="0">
+		<e:Image id="bgImag" x="0" y="0" scaleX="1" scaleY="1" width="720" height="1280" source="bg_png"/>
+		<e:Group id="ItemGroup" width="720" height="786" x="0" anchorOffsetX="0" verticalCenter="247" anchorOffsetY="0">
+			<e:Button id="startBtn" label="" anchorOffsetY="0" horizontalCenter="0" top="0">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="title (10)_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="infoBtn" label="" x="0" y="100">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="title (6)_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="skinBtn" label="" y="100" right="0">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="title (3)_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="starBtn" label="" y="230">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="title (5)_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="rankBtn" label="" y="230" right="0">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="title (4)_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Image id="ballonImag" horizontalCenter="7" verticalCenter="70.5" source=""/>
+		</e:Group>
+		<e:Group id="scoreGroup" width="110" height="100" y="16" anchorOffsetX="0" horizontalCenter="0" visible="false">
+			<e:Image id="championImag" y="18" horizontalCenter="0"/>
+			<e:Label id="scoreLabel" text="10000" bottom="0" width="110" horizontalCenter="0" textAlign="center" textColor="0x080960"/>
+		</e:Group>
+		<e:Label id="levelLabel" text="0/45" y="0" textColor="0x1f096d" anchorOffsetY="0" right="0" height="66.67" verticalAlign="middle" textAlign="center" visible="false"/>
+		<e:Group id="lastGameGroup" width="366.66" height="246.66" y="179" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" visible="false">
+			<e:Label id="overLabel" text="GAME OVER" horizontalCenter="0" width="300" height="80" y="20" textColor="0x030e5b" size="48" verticalAlign="middle" textAlign="center"/>
+			<e:Label id="lastScoreLabel" text="10000" y="140" anchorOffsetX="0" width="243.34" anchorOffsetY="0" height="67.33" verticalAlign="middle" textAlign="center" horizontalCenter="0"/>
+		</e:Group>
+		<e:Image source="title (1)_png" y="162" horizontalCenter="0"/>
+	</e:Group>
+</e:Skin>

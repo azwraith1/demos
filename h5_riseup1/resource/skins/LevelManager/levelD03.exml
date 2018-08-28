@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelB07" width="720" height="2300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="-200" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1550"/>
+	<e:Image x="-92.08" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1556.93"/>
+	<e:Image x="-200" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1420"/>
+	<e:Image x="-92.08" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1426.93"/>
+	<e:Image x="-200" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1295.33"/>
+	<e:Image x="-92.08" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1302.26"/>
+	<e:Image x="-200" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1165.33"/>
+	<e:Image x="-92.08" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1172.26"/>
+	<e:Image x="-200" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1032"/>
+	<e:Image x="-92.08" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="1038.93"/>
+	<e:Image x="765.15" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="847.88"/>
+	<e:Image x="873.07" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="854.81"/>
+	<e:Image x="765.15" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="717.88"/>
+	<e:Image x="873.07" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="724.81"/>
+	<e:Image x="765.15" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="593.21"/>
+	<e:Image x="873.07" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="600.14"/>
+	<e:Image x="765.15" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="463.21"/>
+	<e:Image x="873.07" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="470.14"/>
+	<e:Image x="765.15" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="30" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="329.88"/>
+	<e:Image x="873.07" scaleX="0.2" scaleY="0.2" fillMode="clip" rotation="150" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" y="336.81"/>
+</e:Skin>

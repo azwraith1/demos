@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="300" y="1500" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="240" y="1300"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="360" y="1300"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="180" y="1100"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="300" y="1100"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="420" y="1100"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="240" y="900"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="120" y="900"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="480" y="900"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="360" y="900"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="180" y="700"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="300" y="700"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="420" y="700"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="240" y="500"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="360" y="500"/>
+	<e:Image source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png" x="300" y="300"/>
+</e:Skin>

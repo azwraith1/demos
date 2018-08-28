@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelG06" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="180" y="1270" source="blockCircle1_png" scaleX="3" scaleY="3"/>
+	<e:Image x="20" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="90" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="160" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="231" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="301" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="371" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="441" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="512" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="582" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="652" y="1672" source="blockSquare1_png" scaleX="0.4" scaleY="0.4"/>
+	<e:Image x="20" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="90" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="160" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="231" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="301" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="371" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="441" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="512" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="582" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="652" y="670" source="blockSquare1_png" scaleX="0.4" scaleY="0.4"/>
+	<e:Image x="20" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="90" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="160" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="231" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="301" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="371" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="441" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="512" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="582" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4" rotation="0.61"/>
+	<e:Image x="652" y="746" source="blockSquare1_png" scaleX="0.4" scaleY="0.4"/>
+	<e:Image x="200" y="267.88" source="blockCircle1_png" scaleX="3" scaleY="3"/>
+</e:Skin>

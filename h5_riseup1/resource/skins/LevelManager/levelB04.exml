@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="192" y="1262.37" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="224.5" y="1325.69" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" rotation="90"/>
+	<e:Image x="217.01" y="1333.64" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="230.65" y="1331.14" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="217.01" y="1424.91" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="231" y="1422.24" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="330" y="1262.37" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="362.5" y="1325.69" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" rotation="90"/>
+	<e:Image x="355.01" y="1333.64" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="368.65" y="1331.14" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="355.01" y="1424.91" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="369" y="1422.24" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="468.48" y="1262.37" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="500.98" y="1325.69" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" rotation="90"/>
+	<e:Image x="493.49" y="1333.64" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="507.13" y="1331.14" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="493.49" y="1424.91" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="507.48" y="1422.24" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="253.83" y="970" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="286.33" y="1033.32" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" rotation="90"/>
+	<e:Image x="278.84" y="1041.27" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="292.48" y="1038.77" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="278.84" y="1132.54" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="292.83" y="1129.87" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="406.32" y="970" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="438.82" y="1033.32" scaleX="0.5" scaleY="0.5" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" rotation="90"/>
+	<e:Image x="431.33" y="1041.27" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="444.97" y="1038.77" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="431.33" y="1132.54" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="120"/>
+	<e:Image x="445.32" y="1129.87" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="0.5" scaleY="0.5" rotation="60"/>
+	<e:Image x="300" y="400" scaleX="1" scaleY="1" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockCircle1.png"/>
+	<e:Image x="364.67" y="527" scaleX="1" scaleY="1" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" rotation="90"/>
+	<e:Image x="345.83" y="553.79" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="1" scaleY="1" rotation="120"/>
+	<e:Image x="382.66" y="548.79" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="1" scaleY="1" rotation="60"/>
+	<e:Image x="345.83" y="732" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="1" scaleY="1" rotation="120"/>
+	<e:Image x="382.66" y="727" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare3.png" scaleX="1" scaleY="1" rotation="60"/>
+</e:Skin>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelG10" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="360" y="1300" source="blockCircle1_png" scaleX="5" scaleY="5"/>
+	<e:Image x="-155" y="901" source="blockCircle1_png" scaleX="5" scaleY="5"/>
+	<e:Image x="302" y="375" source="blockCircle1_png" scaleX="5" scaleY="5"/>
+	<e:Image x="-297" y="75" source="blockCircle1_png" scaleX="5" scaleY="5"/>
+</e:Skin>

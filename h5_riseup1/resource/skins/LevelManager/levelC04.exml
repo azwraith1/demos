@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="720" height="2300" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="-108" y="1400" scaleX="1" scaleY="1" rotation="45" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png"/>
+	<e:Image x="855" y="1187.87" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" scaleX="1" scaleY="1" rotation="135" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image x="-108" y="909.58" scaleX="1" scaleY="1" rotation="45" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png"/>
+	<e:Image x="855" y="697.45" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" scaleX="1" scaleY="1" rotation="135" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image x="840.21" y="216.62" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png" scaleX="1" scaleY="1" rotation="135" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image x="-108" y="428.75" scaleX="1" scaleY="1" rotation="45" anchorOffsetX="0" anchorOffsetY="0" source="file:///f%3A/LibiiSVN/H5G01_ProtectBalloon/h5_riseup/resource/assets/blockSquare4.png"/>
+</e:Skin>

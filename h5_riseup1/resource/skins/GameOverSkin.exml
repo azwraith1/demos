@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameOverSkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="720" height="1280" x="1" y="0"/>
+	<e:Group width="720" height="1280" x="0" y="0">
+		<e:Image id="bgImag" width="720" height="1280" y="0" source="bg_png" horizontalCenter="0"/>
+		<e:Label text="本局得分" y="158" anchorOffsetX="0" width="420" anchorOffsetY="0" height="106" verticalAlign="middle" textAlign="center" textColor="0xd12a1f" size="64" horizontalCenter="0"/>
+		<e:Label id="score" text="10000" y="254" anchorOffsetX="0" width="200" anchorOffsetY="0" height="88" textAlign="center" verticalAlign="middle" horizontalCenter="0" textColor="0xe21818"/>
+		<e:Label id="highScore" text="最高分10000" y="344" anchorOffsetX="0" width="308" anchorOffsetY="0" height="78" horizontalCenter="43" textAlign="center" verticalAlign="middle" size="48" textColor="0xe02c2c"/>
+		<e:Image id="imag" y="474" horizontalCenter="0" source="balloon_png"/>
+		<e:Image x="188" y="366" source="crown_png"/>
+		<e:Button id="restartLabel" label="" y="726" horizontalCenter="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="restart_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="skinBtn" label="" y="838" horizontalCenter="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="skin_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="shareBtn" label="" y="952" horizontalCenter="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="share_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+</e:Skin>

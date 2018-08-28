@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelG01" width="720" height="2300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="16561a018a6"/>
+	<e:Image x="-94" y="1779" scaleX="2" scaleY="2" source="wallTriangle3_png"/>
+	<e:Image x="534" y="1935" source="wallTriangle3_png" scaleX="2.5" scaleY="2.5" rotation="270"/>
+	<e:Image x="90" y="1665" source="blockCircle1_png" scaleX="0.4" scaleY="0.4"/>
+	<e:Image x="90" y="1500" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="90" y="1335" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="90" y="1170" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="90" y="1005" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="565" y="660" source="blockCircle1_png" scaleX="0.4" scaleY="0.4"/>
+	<e:Image x="565" y="495" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="565" y="330" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="565" y="165" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="565" y="0" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="565" y="-165" source="blockCircle1_png" scaleY="0.4" scaleX="0.4"/>
+	<e:Image x="534" y="774" scaleX="2" scaleY="2" source="wallTriangle4_png"/>
+	<e:Image x="184" y="582" source="wallTriangle4_png" scaleX="2.5" scaleY="2.5" rotation="-270"/>
+</e:Skin>

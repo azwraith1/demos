@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BallSkinItemSkin" width="320" height="732" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="320" height="732" x="0" y="0" fillColor="0x17b7d3"/>
+	<e:Group width="320" height="732" x="0" y="0">
+		<e:Label id="scoreLabel" text="Score 10000 Point" y="32" scaleX="1" scaleY="1" anchorOffsetY="0" height="110" anchorOffsetX="0" width="320" textAlign="center" verticalAlign="middle" horizontalCenter="-0.5"/>
+		<e:Image id="ballSkinImag" horizontalCenter="0" verticalCenter="0" x="120" y="180.00000000000003" scaleX="1" scaleY="1"/>
+		<e:Label id="completeLabel" text="COMPLETED" x="0" y="150" width="320" height="40" verticalAlign="middle" textAlign="center"/>
+	</e:Group>
+</e:Skin>
